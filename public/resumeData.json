@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Karman Singh",
+    "occupation": "Software Engineer",
+    "description": "I like building pretty things",
+    "image": "profilepic.jpg",
+    "bio": "Hello there! I started out as a chatbot developer and I'm working as a Software Engineer at IndiaMart Intermesh Ltd. I have been coding for a couple of years now and I have gravitated from building chatbots to websites and handling complete modules as a full stack developer. I like dabbling in new technologies and building products that solve real-world problems.",
+    "contactmessage": "Like my profile? Let's connect!",
+    "email": "karmanminocha@gmail.com",
+    "phone": "+91 9560659957",
+    "address": {
+      "street": "ND 13 Pitampura",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110034"
+    },
+    "website": "",
+    "resumedownload": "https://shorturl.at/dfzW2",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/karman.minocha",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/karman1102",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/karman1102/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/karman1102",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Amity University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December 2020",
+        "description": "Graduated with Distinction (8.87)"
+      },
+      {
+        "school": "Jaspal Kaur Public School",
+        "degree": "High School & Secondary School",
+        "graduated": "2014 and 2016 resp.",
+        "description": "Science (Non-Medical)"
+      }
+    ],
+    "work": [
+      {
+        "company": "IndiaMart InterMesh Ltd.",
+        "title": "Associate Software Engineer",
+        "years": "November 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "DolphinChat (Formerly Civilcops)",
+        "title": "Junior Chatbot Developer",
+        "years": "May 2020 - November 2020",
+        "description": ""
+      },
+      {
+        "company": "Cognitensor",
+        "title": "Data Analyst Intern",
+        "years": "January 2020 - March 2020",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Indiamart Video Gallery",
+        "category": "Help Module video gallery",
+        "image": "video_gallery.jpg",
+        "url": "https://help.indiamart.com/video/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "Build not live",
+        "image": "gmail.jpg",
+        "url": "https://github.com/karman1102/Amazon-Clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Karman has been a great hustler. The kind of attitude he shows towards work is something every manager would like to have on his/her team. Apart from just doing the task on the table, he is always hungry to learn & understand why this is been done & what would be the impact.",
+        "user": "Gaurav Borikar (Manager IndiaMart)"
+      },
+      {
+        "text": "Karman is a very hardworking individual. I am impressed by not only his communication skills but also his pace of understanding new concepts. I can blindly give him a task allocated to me and expect quick and refined results. It was fun working with him and I hope that we can work on more projects again sometime.",
+        "user": "Shivek Chhabra (Colleague CogniTensor)"
+      },
+      {
+        "text": "Karman worked with me to help setup a B2B marketplace from scratch. As a fresher, he oozed new ideas and challenged the status quo. He was instrumental in aligning new vendors, customers by hunting leads and figuring out solutions using his ingenuity. A go-getter and truly spirited team member.",
+        "user": "Souvik Sammadar (Manager LocoNav)"
+      }
+    ]
+  }
+}
