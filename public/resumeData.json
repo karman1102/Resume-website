@@ -4,15 +4,15 @@
     "occupation": "Software Engineer",
     "description": "I like building pretty things",
     "image": "profilepic.jpg",
-    "bio": "Hello there! I started out as a chatbot developer and I'm working as a Software Engineer at IndiaMart Intermesh Ltd. I have been coding for a couple of years now and I have gravitated from building chatbots to websites and handling complete modules as a full stack developer. I like dabbling in new technologies and building products that solve real-world problems.",
-    "contactmessage": "Like my profile? Let's connect!",
+    "bio": "Master's student at the University Of Ottawa pursuing Computer Science with 3 years of professional experience in Full-Stack development, Chatbot Development and Data Science. Proven problem solver with an interest in developing intuitive and efficient solutions. Skilled in communicating technical jargon across teams. Fluent in English, Punjabi and Hindi; beginner in French. Love playing squash on weekends.",
+    "contactmessage": "Like what you see? Let's connect!",
     "email": "karmanminocha@gmail.com",
-    "phone": "+91 9560659957",
+    "phone": "+1 343-777-4780",
     "address": {
-      "street": "ND 13 Pitampura",
-      "city": "New Delhi",
-      "state": "Delhi",
-      "zip": "110034"
+      "street": "12-1195 Meadowlands Drive East",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "zip": "K2E 6J5"
     },
     "website": "",
     "resumedownload": "https://shorturl.at/dfzW2",
@@ -43,6 +43,12 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "University Of Ottawa",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "Expected: 2024",
+        "description": "3.9 (currently)"
+      },
+      {
         "school": "Amity University",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "December 2020",
@@ -58,8 +64,8 @@
     "work": [
       {
         "company": "IndiaMart InterMesh Ltd.",
-        "title": "Associate Software Engineer",
-        "years": "November 2020 - Present",
+        "title": "Software Engineer",
+        "years": "November 2020 - August 2022",
         "description": ""
       },
       {
@@ -77,6 +83,10 @@
     ],
     "skills": [
       {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
         "name": "ReactJs",
         "level": "70%"
       },
@@ -85,16 +95,16 @@
         "level": "80%"
       },
       {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
         "name": "Python",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Golang",
+        "level": "60%"
       }
     ]
   },
